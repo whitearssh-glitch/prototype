@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --selfit-bg: #FFF5F7;
+  --selfit-pink: #FF85A1;
+  --selfit-pink-light: #FFB3C1;
+}
+
+body {
+  background-color: var(--selfit-bg);
+}
